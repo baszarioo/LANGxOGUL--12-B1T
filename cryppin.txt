@@ -1,0 +1,1 @@
+LOCK = lock coin refers to a specific period of time during which a cryptocurrency token cannot be trated. Tose are used to have stable value for their long term asset. This could help prevent holders of large bags from selling their tokens in one go in the market, which could lead to a rapid drop in price.
