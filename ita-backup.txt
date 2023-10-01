@@ -1,0 +1,5 @@
+DECADES = decenni
+WINTER = inverno
+YOU ARE LATE = Siete in ritardo
+IN DECEMBER WE DRINK THE WOMAN'S WINE/= A dicembre beviamo il vino della donna.
+WHERE ARE WE GOING TONIGHT? = Dove andiamo stanotte.
