@@ -3,3 +3,8 @@ WINTER = inverno
 YOU ARE LATE = Siete in ritardo
 IN DECEMBER WE DRINK THE WOMAN'S WINE/= A dicembre beviamo il vino della donna.
 WHERE ARE WE GOING TONIGHT? = Dove andiamo stanotte.
+DEAYS = ritardi
+WEEKS = settimane
+YOUR MOTHER COOKS DINNER ON FRIDAY: = Tua madre cucina al cena venerdi.
+HE COMES AT NOON = lui viene a mezzogiorno.
+Io leggo il tuo nome.
