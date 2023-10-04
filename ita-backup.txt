@@ -8,3 +8,9 @@ WEEKS = settimane
 YOUR MOTHER COOKS DINNER ON FRIDAY: = Tua madre cucina al cena venerdi.
 HE COMES AT NOON = lui viene a mezzogiorno.
 Io leggo il tuo nome.
+From July to September = DA LUGLIO A SETTEMBRE
+We have first names and surnames = ABBIAMO NOMI E COGNOMI.
+in the evening we drink a bottle of wine= LA SERA BEVIAMO UNA BOTTIGLIA DI VINO.
+children= FIGLI
+my birthday is in November. = 
+the shirt is for the summer = La camica e per l'estate.
