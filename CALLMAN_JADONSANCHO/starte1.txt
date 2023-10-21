@@ -7,3 +7,33 @@ GUSTAV MALT SEHR GUT = [gustav paints really well]
 ICH MALE SEHR GUT, UND Du? [... and you?]
 IST DEINE FREUNDING SCHAUSPIELERIN [Is your friend an actress?]
 ER IST LEHRER UND SIE IST LEHRERIN [ he is a teacher and she is a teacher.]
+
+KOCHST DU? =[do you cook?]
+-JA, ICH KOCHE MANCHMAL, UND DU?=[yes, i sometimes cook, and you?]
+-ICH KOCHE NIE=[i never cook]
+
+-SCHWIMMST DU?[do you swim?]  -JA ICH SCHWIMME OFT[yes, i swim often.]
+
+
+JUNIORS FRAGE = //DIE STORY/ DIR EINE GESCHICHTE \\[junior's question.]
+EDDY AND JUNIOR SIND ZU HAUSE;[are at home]
+EDDY SITZT VOR DEM FERNSEHER[sits in front of TV]
+-Papa, EINE KLEINE FRAGE [a little question, dada]
+~ES TUT MIR LEID, JUNIOR. ICH KANN JETZT NICHT [i am sorry j. I can't right now.]
+~DAS FUßBALLSPIEL IST SEHR AUFREGEND=[the soccer game is very exciting]
+~JA! DA DRÜBEN! KOMM![yes over there! come on!]
+-ICH BRAUCHE GELD.. [i need money]
+~JA!
+-WIRKLICH? [really?]
+-ICH MÖCHTE EINE PIZZA BESTSELLEN[i would like to order a pizza :)]
+~SCHNELL! KOMM! JA! JETZT!=[fast! come on! yes!noW!]
+-UND ICH MÖCHTE EIN NEUSE VIDEOSPIEL.[and i would like a new video-game] ~JA!
+-UND ICH GEHE AM MONTAG NICHT IN DIE SCHULE!=[and I am not going on Monday to school]   ~JA! SUPER!
+-COOL, DAS IST EINFACH! [cool, that's easy]
+- ICH GEHE JETZT IN DAS KAUFHAUS! =[i go now to the department-store.] ~JETZT! JA!
+- BIS SPÄTER, Papa! =[See you later, dad]  ~JA!
+~ ES TUT MIR LEID, JUNIOR ... [i am sorry junior..]
+~ DAS FUßBALLSPIEL IST SUPER! 
+~ OK... WAS MÖCHTEST DU? =[ok, what do you want?]
+~ JUNIOR? WO BIST DU? =[where are you?]
+VOR =  in front of.
