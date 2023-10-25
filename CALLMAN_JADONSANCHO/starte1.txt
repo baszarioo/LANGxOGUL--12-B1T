@@ -37,3 +37,19 @@ EDDY SITZT VOR DEM FERNSEHER[sits in front of TV]
 ~ OK... WAS MÖCHTEST DU? =[ok, what do you want?]
 ~ JUNIOR? WO BIST DU? =[where are you?]
 VOR =  in front of.
+
+
+DIR EINE GESCHICHTE: URLAUBSKLEIDUN = vacation clothes
+Lucy ist im Kaufaus. Sie seh Lilli.
+- HALLO, ENTSCHULDIUNG? ICH BRAUCHE NEUE KLEIDUNG! [i need new clothes]. FÜR MEINEN URLAUB IN FRANKREICH! [for my vacation in France] ICH BRAUCHE EIN KLEID [ i need a dress...]
+- HIER. EIN KLEID.
+- KEIN SCHWARZES KLEID! FRANKREICH IST HEIß! [not a black dress, France is hot!] ICH BRAUCHE EIN WEIßES KLEID! [i need a white dress].	UND ICH BRAUCHE SCHUHE [ and i need shoes].
+- HIER. SCHUHE.
+- KEINE FLIP-FLOPS! ELEGANTE SCHWARZE SCHUHE [not flipflops, Elegant black shoes.] OK... EIN HUT! ICH BRAUCHE NATÜRLICH EINEN HUT[a hat! i of course need a hat!]
+-HIER. EIN HUT.
+- NEIN, DER HUT IST ZU KLEIN! ICH BRAUCHE EINEN GROßEN HUT! [no, this hat is too small! i need a big hat!]
+... DAS IST PERFEKT! DANKE!	FRANKREICH, ICH KOMME!
+- UND ICH BRAUCHE JETZT AUCH URLAUB... [and i need now also a vacation].
+
+
+DIR EINE GESCHICHTE: 	DIE RESERVIERUNG=[the reservation].
