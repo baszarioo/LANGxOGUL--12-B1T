@@ -85,3 +85,26 @@ IST DEIN SOHN SCHÜLER? = is your son a student?
 ZEHN ERDBEEREN, BITTE! =[Ten strawberries, please!]
 FRAU MÜLLER, WO LEBEN SIE? =[Ms. Muller, where do you live?]
 MAX IST KÜNSTLER. ER MALT SEHR GUT. =[Max is an artist. He paints very well].
+
+
+++> DIR EINE GESCHICHTE: 	WO IST BEAS FREUNDIN? [where is bea's girlfriend]
+BEA IST IM FLUGHAFEN[bea is at airport]. SIE SPRICHT MIT DEM MANN AM SCHALTER.[she is talking to the man at the counter].
+-GUTEN TAG! KANN ICH IHNEN HELFEN?[good afternoon! can i help you?] 
+- JA! ICH REISE NACH PARIS... [yes! i am traveling to paris...]   ICH MÖCHTE MIT MEINER FREUNDIN ZUSAMMEN IM FLUGZEUG SITZEN. [i would like to, with my girlfriend, together sit on the plane].
+- NATÜRLICH, WIR HABEN NOCH ZWEI SITZE NEBENEINANDER. [of course, we have still seats next_to_each_other ].
+- TOLL! [great]
+- WO IST IHRE FREUNDIN? [where is your girlfriend?]
+- ICH WEIß NICHT. [i dont know]  VIELLEICHT KÖNNEN WIR ZUSAMMEN SUCHEN? [maybe we can search together?]
+- WIE SIEHT SIE AUS? [what does she look like?]
+- HMM ... SIE IST GROß [she is tall.]  SIE HAT DUNKLE HAARE ...[ she has dark hair].  SIE LIEBT SPORT UND SPIELLT GITARRE... [ she loves sports and plays (the) guitar].  
+- ÄH... 
+- SIE HAT EIN MOTORRAD [she has a motorcycle]... ABER SIE FÄHRT IMMER ZU SCHNELL[ but she drives always too fast]
+- OK... WIE HEIßT SIE? [ok,.. what's her name?]
+- ICH WEIß NICHT.[i know not]
+- WAS? SIE KENNEN IHREN NAMEN NICHT? [what? you know her name, not?]
+- ICH HABE KEINE FREUNDIN. [I have no girlfriend]..	 ABER ICH MÖCHTE EINE FREUNDIN FINDEN. [but i would like to find a girlfriend. ]	KÖNNEN SIE MIR HELFEN? [can you help me?]
+MIT = with, FREI = free, HELFEN = help, VIELLEICHT=maybe, DUNKLE =dark.
+
+	UNIT 2 UNIT 2 UNIT 2 UNIT 2 UNIT 2 : KEY_PHRASES:	SCHLÜSSELSÄTZE
+WIE IST DAS WETTER HEUTE? [how is the weather today?]	-ES REGNET[it's raining.]
+
