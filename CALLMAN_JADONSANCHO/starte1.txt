@@ -150,3 +150,26 @@ ICH SAGE "DANKE"! = //DIE STORY/ DIR EINE GESCHICHTE \[i am saying thank you.]	/
 -SUPER, DANKE.
 =NEIN, NEIN. ICH SAGE "DANKE".[no, no. I am saying 'thank you'].
 	MOTORRAD = motorcycle, ABER = but, GIBT = gives, WAS IST DAS= what is that, LUSTIG =funny
+
+
+EINHEIT3;
+-SPRECHEN SIE TÜRKISCH?[do you speak turkish?]	-ICH SPRECHE TÜRKISCH UND DEUTSCH.
+ICH SPRECHE NUR DEUTSCH! [i speak only german!]
+DU SPRICHST ZU SCHNELL![you speak to quickly!]
+ER SPRICHT KEIN DEUTSCH[he doesnt speak german].
+
+//NOTHING IS PERFECT. // NICHTS IST PEFEKT
+put words describing how good your language skills are after the subject and verb! 
+BEISPIEL: (example);
+ICH SPRECHE PERFEKT DEUTSCH.[i speak German perfectly.]
+SPRICHST DU NUR ENGLISCH?[do you only speak english?]
+
+//TALK ABOUT HOBBIES. // SPRECHEN SIE ÜBER HOBBYS
+-WAS MACHST DU GERN? [what do you like to do?] -ICH SINGE GERN. [i like to sing].
+-WAS MACHST DU JETZT? [what are you doing now?] -ICH FRÜHSTÜCKE JETZT.[ i am eating breakfast now].
+=SURFST DU JEDEN TAG? [Do you surf every day?] =ICH SURFE OFT, ABER ES REGNET HEUTE[I often surf, but its raining today].
+
+//LIVING IN THE PRESENT. //	LEBEN IN DER GEGENWART.
+/* in German you use the same verb form for things you do habitually and things you're doing now. */
+-ICH SINGE OFT. [i often sing].
+-ICH SINGE JETZT. [i am singing now].
