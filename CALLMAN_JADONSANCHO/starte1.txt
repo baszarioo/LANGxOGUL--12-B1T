@@ -108,3 +108,45 @@ MIT = with, FREI = free, HELFEN = help, VIELLEICHT=maybe, DUNKLE =dark.
 	UNIT 2 UNIT 2 UNIT 2 UNIT 2 UNIT 2 : KEY_PHRASES:	SCHLÜSSELSÄTZE
 WIE IST DAS WETTER HEUTE? [how is the weather today?]	-ES REGNET[it's raining.]
 
+
+ZWEI FLUGTICKETS, BITTE! = //DIE STORY/ DIR EINE GESCHICHTE \\[2 plane tickets please.]	//+ narrator = SPRECHER, ERZÄHLER
++ Junior IST IM FLUGHAFEN =[is at the  airport]. ER SPRICHT MIT DER FRAU AM SCHALTER= [he is talkin to the woman at the counter].
+- KANN ICH HELFEN, JUNGER MANN? [can i help young man?]
+= EIN FLUGTICKET NACH BARCELONA, BITTE. 
+- WO SIND DEINE ELTERN? [where are your parents?]
+= ENTSCHULDIGUNG, ICH BIN NICHT SIEBEN JAHRE ALT![Excuse me, i am not 7 years old].
+- WIE ALT BIST DU?[how old are you?]
+= ICH BIN ACHT JAHRE ALT![i am 8 years old!]
+- EIN FLUGTICKET NACH BARCELONA KOSTET ZWEINHUNDRET EURO.[a planeticket to Barcelona costs 2hundred euro].
+= OK... WOHIN KANN ICH FÜR DREIZEHN EURO _REISEN_? [where can i for 13 euro _travel_].
++ EDDY, Juniors VATER, KOMMT ZUM SCHELTER.[Junior's father comes to the counter].
+_ Junior! HIER BIST DU! WAS MACHST DU FLUGHAFEN? [J. here you are! what are you doing at the airport!].
+= ICH HABE EINEN MATHETEST HEUTE. ICH MUSS WIET WEG REISEN.[i have a mathtest today. i have to travel far away]
+_ OK. WIE VIEL KOSTET EIN FLUGTICKET? [OK. how much costs one flight ticket].
+= ZWIEHUNDERT EURO!
+_ WIE VIEL KOSTEN ZWEI FLUGTICKETS? [how much do two plane tickets cost?]
+= VIERHUNDERT EURO![4 hundred euro]
+_ RICHTIG! DU BIST PERFEKT IN MATHE! UND JETZT GEH IN DIE SCHULE.[correct! you are perfect at math! and now go to school.]
+JAHRE = YEARS.
+
+
+ICH SAGE "DANKE"! = //DIE STORY/ DIR EINE GESCHICHTE \[i am saying thank you.]	//+ narrator = SPRECHER, ERZÄHLER
++SARI GIBT LILLI EINE TÜTE.[sari gives lilli a bag].
+-WAS IST DAS?
+=DU MUSST SIE ÖFFNEN! [you have to open it].
++LILLI ÖFFNET DIE TÜTE.[Lilli opens the bag].
+-EIN T-SHIRT.
+=ES IST SO SÜβ![it's so cute].
+-ES IST ROSA[it's pink].
+=RICHTIG. MEINE LIEBLINGSFARBE.[correct, my favourite color.]
+-ROSA MIT EINER KATZE=[pink with a cat].
+=ICH LIEBE KATZEN![my favourite cat.]
+-UND DIE KATZE FÄHRT MOTORRAD.[and a cat rides motorcycle].
+=DAS IST SO LUSTIG![this is so funny]. ES IST DAS PERFEKTE GEBURTSTAG^SGESCHENK.[it's a perfect birthday gift].
+-SARI, HEUTE IST NICHT MEIN GEBURTSTAG.[sari, today is not my birthday].
+=ICH WEIβ. HEUTE IST MEIN GEBURTSTAG. [i know, today is my birthday].
+-OH JA, RICHTIG.[oh, yes, you're right]..
+=DU VERGISST MEINEN GEBURTSTAG IMMER.[you always forget my birthday]. ABER DIESES JAHR HAST DU EIN GESCHENK FÜR MICH: DAS T-SHIRT![but this year you have a gift for me: the T-shirt!].
+-SUPER, DANKE.
+=NEIN, NEIN. ICH SAGE "DANKE".[no, no. I am saying 'thank you'].
+	MOTORRAD = motorcycle, ABER = but, GIBT = gives, WAS IST DAS= what is that, LUSTIG =funny
