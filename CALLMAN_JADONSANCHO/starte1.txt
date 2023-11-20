@@ -173,3 +173,27 @@ SPRICHST DU NUR ENGLISCH?[do you only speak english?]
 /* in German you use the same verb form for things you do habitually and things you're doing now. */
 -ICH SINGE OFT. [i often sing].
 -ICH SINGE JETZT. [i am singing now].
+
+
+// UNIT 4 EXAM.		// EINHEIT 4 PRÜFUNG
+SCHNELL=[quickly],	MUTTERSPRACHE = [mother tongue],	NUR=[only]
+MEINE MUTTER FOTOGRAFIERT GERN =[my mother likes to take photos].
+MEINE FREUNDE SPIELEN IM HERBST BASKETBALL. [my friends play basketball in the fall].
+MEINE MUTTER SPRICHT TÜRKISCH UND SIE LERNT ENGLISCH. [my mother speaks turkish and she studies English].
+JA, ICH SPRECHE EIN BISSCHEN POLNISCH. [Ja, ich spreche ein bisschen Polnisch.]
+SEIN DEUTSCH IST PERFEKT. [His German is perfect].
+DIE ANWÄLTIN FRÜHSTÜCKT IMMER IM CAFÉ=[the lawyer always eats breakfast in the coffee shop.]
+DUO JOGGT JEDEN TAG MIT EDDY=[Duo jogs with Eddy every day].
+JOGGST DU HEUTE IM PARK?=[Are you jogging in the park today?]
+ICH BIN STUDENT. ICH BIN KLUG, ABER FRANZÖSISCH IST SCHWER.=[I'm a student. I'm smart, but French is difficult]
+MEIN FRANZÖSISCH IST SEHR GUT.=[my french is very good]
+[ABBRECHEN cancel/abort]
+IM SOMMER WANDERN MEINE FREUNDE JEDEN TAG.=[in the summer, my friends hike every day].
+FRÜHSTÜCKST DU HEUTE MORGEN? =[are you eating breakfast this morning?]
+SURFST DU MIT NINA JEDEN TAG IM URLAUB? =[Do you surf with Nina Every day on vacation?].
+ICH SINGE OFT, ABER MEINE FRAU SINGT NIE.=[i often sing, but my wife never sings].
+MEIN BRUDER LERNT DEUTSCH.[my brother studies german].
+WO SINGST DU HEUTE?=[where are you singing today?].
+MEIN BÄR SURFT NIE.=[my bear never surfs!]
+IHR DEUTSCH IST SEHR GUT.[her german is very good!].
+WAS MACHST DU IM URLAUB?[what do you do on vacation?].
