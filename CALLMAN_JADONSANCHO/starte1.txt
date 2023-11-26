@@ -197,3 +197,16 @@ WO SINGST DU HEUTE?=[where are you singing today?].
 MEIN BÄR SURFT NIE.=[my bear never surfs!]
 IHR DEUTSCH IST SEHR GUT.[her german is very good!].
 WAS MACHST DU IM URLAUB?[what do you do on vacation?].
+
+//continuation : FORTSETZUNG
+HERR JONES, WELCHE SPRACHEN SPRECHEN SIE? = mr. Jones, which languages do you speak?
+MEINE FREUNDE SPEIELEN FUβBALL GERN= my friends like to play soccer.
+ICH SPRECHE VIELE SPRACHEN = i speak many languages
+MEIN ENGLISCH IST WIRKLICH PERFEKT! = my english is really perfect!
+OH! DEIN TÜRKISCH IST SEHR GUT!
+IST ENGLISCH SCHWIERIG?// IST ENGLISCH SHWER? = is english difficult?
+KOCHST DU HEUTE MORGEN EINE WURST? = Are you cooking a sausage this morning?
+ICH LERNE SPANISCH = i study spanish.
+ICH SINGE GERN = i like to sing
+ICH SPRECHE EIN WENIG DEUTSCH UND SPANISCH || ICH SPRECHE EIN BISCCHEN DEUTSCH UND SPANISCH. = i speak a little German and spanish.
+SURFST DU JEDEN TAG? = do you surf every day?
