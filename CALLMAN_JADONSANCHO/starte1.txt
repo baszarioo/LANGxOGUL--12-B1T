@@ -175,7 +175,7 @@ SPRICHST DU NUR ENGLISCH?[do you only speak english?]
 -ICH SINGE JETZT. [i am singing now].
 
 
-// UNIT 4 EXAM.		// EINHEIT 4 PRÜFUNG
+// UNIT 3 EXAM.		// EINHEIT 3 PRÜFUNG
 SCHNELL=[quickly],	MUTTERSPRACHE = [mother tongue],	NUR=[only]
 MEINE MUTTER FOTOGRAFIERT GERN =[my mother likes to take photos].
 MEINE FREUNDE SPIELEN IM HERBST BASKETBALL. [my friends play basketball in the fall].
@@ -210,3 +210,42 @@ ICH LERNE SPANISCH = i study spanish.
 ICH SINGE GERN = i like to sing
 ICH SPRECHE EIN WENIG DEUTSCH UND SPANISCH || ICH SPRECHE EIN BISCCHEN DEUTSCH UND SPANISCH. = i speak a little German and spanish.
 SURFST DU JEDEN TAG? = do you surf every day?
+ERLEDIGT = done.
+
+
+UNIT 4 GUIDEBOOK! // RESISEFÜHRER.
+...
+//in English, we say I don't like the table.  In German: 'nicht' goes to the end!
+MEIN FREUND MAG DEN TISCH NICHT.[my friend doesn't like the table.]
+
+//use 'NICHT' before an adjective to say it isn't so!
+DER STUHL IST NICHT BEQUEM.[the chair ist not comfortable]
+
++TIP: 'DER' OR 'DEN'?
+//DER, EIN, etc., change when the noun is at the receiving end of a verb.
+ 
+ MAGST DU _DEN_ TISCH? [do you like the table?]
+ ICH HABE KEINEN TEPPICH. [i don't have a carpet.]
+
+//that's just for masculine singular nouns though! Others stay the same.
+
+ ICH BRAUCHE DIE LAMPE NICHT.[i don't need the lamp/]
+ MAGST DU DAS BÜCHERREGAL? [do you like the bookcase?]
+
+
+ GESCHICHTE: DER TANZKURS [story: dance class]
+ EDDY IST IN LISAS KURS. [eddy is in lisa's class]
+ - GUTEN ABEND UND WILLKOMMEN![good evening and welcome!] -HEUTE TANZEN WIR! [today we dance!]
+ EDDY GEHT SCHNERLL ZUR TÜR. [eddy goes quickly to the door]
+ - MOMENT! GEH NICHT WEG! [don't leave!] -TANZEN IST NICH EINFACH...[dancing is not easy..] ... ABER ES MACHT WIRKLICH SPAβ! [but it's really fun!] 
+ = OK, ABER ICH HABE EIN PROBLEM. [ok, but i have a problem!]
+- HAB KEINE ANGST! ICH ZEIGE ES DIR! [don't be scared! I (will) show it to you!]
+=ABER ...
+LISA TANZT,
+- UND JETZT TANZT DU MIT MIR! [and now you dance with me!]
+= OH, TANZEN MACHT WIRKLICH SPAβ! [oh dancing is really fun!]
+- SUPER! UND HAST DU IMMER NOCH EIN PROBLEM? [super! and do you have still a problem?]
+=JA.
+- ABER WARUM? [but why?]
+= ICH MUSS EIGENTLICH ZUM ENGLISCHKURS. [i have to (go) actually to English class.] =ABER ICH MAG DEN TANZKURS LIEBER! [But i like the dance class better!]
+
