@@ -273,3 +273,12 @@ PIA VERLÄSST DIE WOHNUNG. EDDY KOMMT INS WOHNZIMMER.[pia leaves the apartment. 
 + OH NEIN!
 + PIA! WARTE! MAJA IST UNSER PAPAGEI! [pia! wait! maja is out parrot!]
 _ AUF WIEDERSEHEN, PIA!
+
+
+[[ER LÜGT ZIEMLICH OFT. MAN KANN ALSO SAGEN, DASS ER EIN LÜGNER IST.] (he lies quite often. so you can say he is a liar.)]
+[[ICH BIN KRANK, _TROTZDEM_ GEHE ICH ZUR ARBEIT] (i am ill, _despite that_ i am going to work.)].
+
+BADEZIMMER =bathroom
+ENSTCHULDIGUNG, BIS WANN? = excuse me, much here?
+HEUTE NACHMITTAG=[this afternoon]
+WANN MÖCHTEST DU JOGGEN GEHEN?=[When would you like to go jogging.?]
