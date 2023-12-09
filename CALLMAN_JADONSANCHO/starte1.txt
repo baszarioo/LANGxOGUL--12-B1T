@@ -282,3 +282,19 @@ BADEZIMMER =bathroom
 ENSTCHULDIGUNG, BIS WANN? = excuse me, much here?
 HEUTE NACHMITTAG=[this afternoon]
 WANN MÖCHTEST DU JOGGEN GEHEN?=[When would you like to go jogging.?]
+
+
+WIR BRAUCHEN KEINEN SCHRANK. =[We don't need a closet.]
+JA, DIE LAMPE IST SEHR HÄSSLICH. =[Yes, the lamp is very ugly.]
+MÖCHTEST DU UM DREI VOLLEYBALL SPIELEN? =[would you like to play volleyball at three?]
+DAS SPIEL IST SEHR LECKER! [the game is very exciting!], SPIELST DU GERN FUβBALL?=[Do you like to play soccer?]
+DER SUPERMARKT IST AM SAMSTAG BIS DREI GEÖFFNET.[the supermarket is open until three on Saturday.]
+DAS KONZERT IST HEUTE. ICH FREUE MICH!=[the concert is today. I'm looking forward to it!]
+ICH MAG DAS BETT. DEIN SCHLAFZIMMER IST SEHR MODERN. [i like the bed. Your bedroom is very modern]
+OH, DER TEPPICH IST PERFEKT UNDE ELEGANT! [oh, the rug is perfect and elegant~!]
+MIA UND ALI HABEN EINEN TISCH. DER TISCH IST NEU. [mia and ali have a table. The table is new.]
+
+
+-BERTA, DU HAST FÜNF(5) MAL GEFURZT, DREI(3) MAL GERÜLPST, HAST DIR DIE NASE MIT DEM KISSEN GEPUTZT UND HAST AUF DER DECKE GESPUCKT.=[berta, you farted 5 times, burped 3 times, blew your nose with the pillow, and spit on the blanket.]
++JÜRGEN, ICH HATTE DIR GESAGT ICH EINE DRECKSAU IM BETT BIN UND DU HAST GESAGT DU MAGST ES...[
+J, i told you i was a dirty pig in bed and you said you liked it...]
