@@ -298,3 +298,34 @@ MIA UND ALI HABEN EINEN TISCH. DER TISCH IST NEU. [mia and ali have a table. The
 -BERTA, DU HAST FÜNF(5) MAL GEFURZT, DREI(3) MAL GERÜLPST, HAST DIR DIE NASE MIT DEM KISSEN GEPUTZT UND HAST AUF DER DECKE GESPUCKT.=[berta, you farted 5 times, burped 3 times, blew your nose with the pillow, and spit on the blanket.]
 +JÜRGEN, ICH HATTE DIR GESAGT ICH EINE DRECKSAU IM BETT BIN UND DU HAST GESAGT DU MAGST ES...[
 J, i told you i was a dirty pig in bed and you said you liked it...]
+
+
+DER BÄR BRAUCHT KEINEN SCHRANK. =[the bear doesn't need a closet]
+SCHREBITISCH=desk,		WIR BRAUCHEN EINE LAMPE.		HEUTE ABEND=this evening.
+MEIN HUND MAG DIE WOHNUNG NICHT =my dog doesn't like the apartment
+WIR BRAUCHEN EINEN TISCH=[we need a table].
+DER STUHL IST NICH BEQUEM.. ICH MAG DEN STUHL NICHT= the chair isn't comfortable. I don't like the chair].
+ES IST HEUTE NACHMITTAG SEHR SONNIG UND SCHÖN! [it's very sunny and beautiful this afternoon!]
+ICH MÖCHTE INS SCHWIMMBAD GEHEN. ICH SCHWIMME GERN. [i would like to go to the swimming pool. I like to swim.]
+DAS SPIEL IST HEUTE VON ACHT BIS ZEHN, ABER ICH HABE EINE EINTRITTSKARTE=[the game is today from eight until ten, but I don't have an admission ticket.]
+MÖCHTEST DU UM DREI VOLLEYBALL SPIELEN?=[would you like to play volleyball at three?]
+
+EINHEIT 6:
+zwanzig.20
+WANN IST DIE ABFHART? =[when is the departure]
+ICH BRAUCHE NEUE KLEIDUNG FÜR DAS JOBINTERVIEW.=[I need new clothes for the job interview.]
+HINTEN = in the back.
+NEIN, MEIN JOBINTERVIEW IST NICH AM DIENSTAG=[no, my job interview is not on Tuesday.]
+
+KLEID = dress, 	GENAU = exactly,	ABFAHRT = departure, 
+JULIA, SUCHST DU EIN KLEID? =are you looking for a dress?		MONTAG.
+SCHADE, DAS SAKKO PASST NICHT. too bad the suit jacket doesn't fit
+WO IST DER SPEISEWAGEN? ICH BRAUCHE EINEN KAFFEE=[where is the dinning car? i need a coffee]
+KOSTET DIE FAHRKARTE ZWANZIG ODER DREIβIG EURO?=[does the ticket cost twenty or thirty euros?]
+JA, SIE KÖNNEN JETZT ZAHLEN =yes you can pay now.
+ICH MUSS INS KAUFHAUS GEHEN. ICH HABE KEINE JEANS!=[I have to go to the department store, I don't have any jeans!]
+DER ZUG KOMMT IMMER UM DREI UHR=[the train always comes at three o'clock]
+NEIN, ICH ZAHLE NIE MIT KREDITKARTE=[No, i never pay with credit card].
+WIE VIEL KOSTEN DREI FAHRKARTEN?=[how much do three tickets cost?]
+OH NEIN! JETZT HABE ICH KEINEN KAFFEE! OH, UND DU MUSST EINE BLUSE KAUFEN=[oh no! I don't have any coffee! Oh and you have to buy a blouse]
+AUF GLEIS ZEHN = on track ten
